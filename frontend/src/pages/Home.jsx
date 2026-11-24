@@ -10,7 +10,7 @@ const services = [
     badge: 'Active',
     title: 'Crownstone Private Wealth\nReal Estate & Advisory',
     desc: 'Exclusive opportunities and strategic investment advice in prime global real estate development.',
-    href: 'http://www.jbcrownstone.com:8080/',
+    href: 'https://www.jbcrownstone.com/',
     external: true,
   },
   {

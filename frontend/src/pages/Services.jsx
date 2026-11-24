@@ -14,7 +14,7 @@ const services = [
       'End-to-end transaction management and due diligence',
       'Off-market opportunities for qualified investors',
     ],
-    href: 'http://www.jbcrownstone.com:8080/',
+    href: 'https://www.jbcrownstone.com/',
     external: true,
   },
   {

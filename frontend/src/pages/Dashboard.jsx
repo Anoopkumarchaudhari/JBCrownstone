@@ -9,7 +9,7 @@ const metrics = [
 ];
 
 const quickLinks = [
-  { label: 'Real Estate & Advisory', href: 'http://www.jbcrownstone.com:8080/', external: true },
+  { label: 'Real Estate & Advisory', href: 'https://www.jbcrownstone.com/', external: true },
   { label: 'Send an Enquiry',        href: '/contact' },
   { label: 'Our Services',           href: '/services' },
   { label: 'About JB Crownstone',   href: '/about' },

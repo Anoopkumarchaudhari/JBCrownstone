@@ -15,7 +15,7 @@ const contactItems = [
   },
   {
     label: 'Phone',
-    value: 'Contact us for details',
+    value: '9931105036',
     link: null,
     icon: (
       <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5">
